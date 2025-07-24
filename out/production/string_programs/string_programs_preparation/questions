@@ -1,0 +1,59 @@
+Count number of words in a string ✅
+
+Print each word on a new line (already done) ✅
+
+*** take an extra string array to store all the string words with the help of index
+Count the frequency of each word ✅
+Print words in reverse order ✅
+
+Find the longest word in a string ✅
+
+Find the shortest word in a string ✅
+
+Reverse each word individually
+
+Check if a given word exists in the sentence
+
+Replace a specific word in the string
+
+Find duplicate words in a sentence
+
+Print words that start with a vowel
+
+Print words ending with a vowel
+
+Print palindromic words
+
+Print words in increasing/decreasing order of length
+
+Print the length of each word
+
+Capitalize the first letter of each word
+
+Convert each word to uppercase/lowercase manually
+
+Check if all words are unique
+
+Print the word with the highest number of vowels
+
+Print all words that have more than N characters
+
+Check if any word is an anagram of another
+
+Find word with maximum number of repeated characters
+
+Print word(s) that have equal number of vowels and consonants
+
+Print word(s) with only consonants or only vowels
+
+Sort the words in lexicographical (dictionary) order
+
+Alternate casing in each word (e.g., HeLLo)
+
+Swap first and last character of each word
+
+Print words containing only digits/alphabets
+
+Count number of numeric/alphabetic words
+
+Remove a specific word from the string

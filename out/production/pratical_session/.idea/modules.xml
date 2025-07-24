@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/array_programs/array_programs.iml" filepath="$PROJECT_DIR$/array_programs/array_programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core_java/core_java.iml" filepath="$PROJECT_DIR$/core_java/core_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/number_programs/number_programs.iml" filepath="$PROJECT_DIR$/number_programs/number_programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pratical_session.iml" filepath="$PROJECT_DIR$/.idea/pratical_session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string_programs/string_programs.iml" filepath="$PROJECT_DIR$/string_programs/string_programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings_youtube/strings_youtube.iml" filepath="$PROJECT_DIR$/strings_youtube/strings_youtube.iml" />
+    </modules>
+  </component>
+</project>

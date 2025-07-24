@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/array_concept_problems/array_concept_problems.iml" filepath="$PROJECT_DIR$/array_concept_problems/array_concept_problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/character_programs/character_programs.iml" filepath="$PROJECT_DIR$/character_programs/character_programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection_frame_work_programs/collection_frame_work_programs.iml" filepath="$PROJECT_DIR$/collection_frame_work_programs/collection_frame_work_programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core_java/core_java.iml" filepath="$PROJECT_DIR$/core_java/core_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa_important_concepts/dsa_important_concepts.iml" filepath="$PROJECT_DIR$/dsa_important_concepts/dsa_important_concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_library/java_library.iml" filepath="$PROJECT_DIR$/java_library/java_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/number_programs/number_programs.iml" filepath="$PROJECT_DIR$/number_programs/number_programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns/patterns.iml" filepath="$PROJECT_DIR$/patterns/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pratical_session.iml" filepath="$PROJECT_DIR$/.idea/pratical_session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string_programs/string_programs.iml" filepath="$PROJECT_DIR$/string_programs/string_programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings_youtube/strings_youtube.iml" filepath="$PROJECT_DIR$/strings_youtube/strings_youtube.iml" />
+    </modules>
+  </component>
+</project>
